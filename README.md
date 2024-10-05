@@ -1,4 +1,4 @@
-﻿# phpmyadmin_bruteforce
+﻿# phpMyAdmin Bruteforce
 
 ## Rust installation 
 

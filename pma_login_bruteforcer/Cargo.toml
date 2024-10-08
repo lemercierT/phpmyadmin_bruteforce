@@ -1,0 +1,9 @@
+[package]
+name = "pma_login_bruteforcer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+reqwest = { version = "0.12", features = ["blocking"] }
+tokio = { version = "1", features = ["full"] }
+colored="2"
